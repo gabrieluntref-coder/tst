@@ -56,9 +56,6 @@ https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tva
 #EXTINF:-1 tvg-id="CanalPro.py@SD",Canal Pro
 #EXTVLCOPT:http-referrer=https://www.canalpro.com.py/en-vivo
 https://www.desde-paraguay.com/pro.m3u8
-#EXTINF:-1 tvg-id="ABCTVParaguay.py@SD",ABC-TV Paraguay
-#EXTVLCOPT:http-referrer=https://www.abc.com.py/
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(v-WzWYiP8ATCgp6DqTQ6qyDOfQ2hPo1iJ0bWbF4l4YBH-5J9RKD0ksD_NTOrRbUmBTTD068x2-p1eZs-uNz2U1snmVoAgYvTO93nzoUmptj7VWlwukgNH-pDIE6B2713)/cloud/3/x9skr3m/d/live-720.m3u8
 #EXTINF:-1 tvg-id="HEiNow.py@SD",HEi Now (1080p) tvg-logo="https://yt3.googleusercontent.com/GiYqxLpIHK8VThyE4oFYz_93Bd4RgmOgRo7ceL9RvnuU5nhjAoNFsT8s2ho-6gJBmjPS1TUnz28=s900-c-k-c0x00ffffff-no-rj", Hei Now
 #EXTVLCOPT:http-referrer=https://www.heinow.com.py/
 https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion
@@ -82,14 +79,9 @@ https://zn1tf.desdeparaguay.net/nandutitv/nandutitv_alta/playlist.m3u8
 https://live.enhdtv.com:8081/8160/index.m3u8
 #EXTINF:-1 tvg-id="TVAire.py@SD",TV Aire
 https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8
-#EXTINF:-1 tvg-id="Trece.py@SD",Trece (1080p) tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logotrececanal.png",TRECE
-#EXTVLCOPT:http-referrer=https://trece.com.py/
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(3_V3fdDWvdGpv_0vWd3wn2Fbt01VB27ayZ7I0xP99XD-zCI0VToLcCni1FLKIuUoBeoZP8x2Pu7wXzv0Ci9qZkqwiYY5dm3Gzhdu18gv0495Kg6lRGtGX_OteMTkd-M8)/cloud/3/x9ksaba/s/live-480.m3u8
 #EXTINF:-1 tvg-id="Nanduti.py@SD",Nanduti (720p)
 #EXTVLCOPT:http-referrer=https://nanduti.com.py/nanduti-tv
 https://copacogen.desdeparaguay.net/nandutitv/nandutitv_baja/index.m3u8
-#EXTINF:-1 tvg-id="AmericaParaguay.py@SD",America Paraguay
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(E9u4ST_Dp-MXgAwUaGVL1tFbOOVUaIt3b3-ysQrCieBzK8BbQn0WZzN6KOSZUTzKeypnvz8z3NPsP2oDy-2mk-AZEKLGtuqyvbz42smzyGYYVfGqcxD6qUhbx8IOSrRk)/cloud/3/x9lh4mu/d/live-720.m3u8
 #EXTINF:-1 tvg-id="RedDigital.py@SD",Red Digital (1080p) [Not 24/7]
 https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8
 #EXTINF:-1 tvg-id="MegaTV.py@SD",Mega TV (1080p) tvg-logo"https://yt3.googleusercontent.com/ytc/AIdro_klEsPQcd_MwVsdT4ViBJuAPPV4x3CwT_WzYbBPQiyrOQ=s900-c-k-c0x00ffffff-no-rj",MEGATV
@@ -159,9 +151,15 @@ https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TELEFE.ar@SD",TELEFE
 http://190.7.19.197:232/play/a059/index.m3u
-#EXTINF:-1 tvg-id="Trece.py@SD",Trece (1080p)
+#EXTINF:-1 tvg-id="Trece.py@SD",Trece (1080p) tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logotrececanal.png",TRECE
 #EXTVLCOPT:https://live2.eu-north-1a.cf.dmcdn.net/sec2
 https://live2.eu-north-1a.cf.dmcdn.net/sec2(vOXvI_s2Wqw_cLDH2Qf403MBs8Ab2NLPdqbwSr2WUp0AhkTpH98c_RWFvmTa_muQxTaMaDVbib__FJ6vY3vzyq2ik1YOPzvBBzKsi61Z1fdXgSH6FQLxaY9HGyBTUyb8)/cloud/3/x9ksaba/s/live-480.m3u8
 #EXTINF:-1 tvg-id="Unicanal.py@SD",Unicanal (1080p)
 #EXTVLCOPT:https://live2.eu-north-1a.cf.dmcdn.net/sec2
 https://live2.eu-north-1a.cf.dmcdn.net/sec2(eG6E9E8d_yhmbaFmCcq2EyirQrpVQ4Y8eo-ijXt0FqtrzHD411wil2XTXot61SKy1_evjuRo1rd9qzYAmduhhs5QAXlVLd4f6bCEnU94KCSCk-xvySVCvzIijcpX2-Fk)/cloud/3/x9ko9z8/s/live-380.m3u8
+#EXTINF:-1 tvg-id="AmericaParaguay.py@SD",America Paraguay (1080p)
+#EXTVLCOPT:https://live2.eu-north-1b.cf.dmcdn.net/sec2
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(RGuHmR0NS7nxFj2j8XargcbJRgS7htfw7OLROYt9KdjMydAIcxzQWRdzn2U592oCOmk1k8dHvqHsXseiAgd3ysb-gFLypLD0dfseYNz6aiil2G0NmoYzTzrXq2LyRboo)/cloud/3/x9lh4mu/d/live-720.m3u
+#EXTINF:-1 tvg-id="ABC.py@SD",ABC (1080p)
+#EXTVLCOPT:https://live2.eu-north-1a.cf.dmcdn.net/sec2
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(e0fTE3UsyF2LWlrxCiGwtE1SCTK7BgAxwqZZXxCXB6vSjaj51sq9sfNJfp9hiAZnDUwHnMCqYCJrX-AqhdCHLJzzX8GYUHZUGTGqrVxXTRNoiyAscORmmC9fQVqjdlRy)/cloud/3/x9skr3m/d/live-720.m3u8
