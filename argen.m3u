@@ -159,10 +159,6 @@ https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TELEFE.ar@SD",TELEFE
 http://190.7.19.197:232/play/a059/index.m3u
-#EXTINF:-1 tvg-id="TELEFE.ar@SD",TELEFE (op2)
-https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1780397593~acl=%2f*~data=hdntl~hmac=e250b1cdbb40f873ce995d7ce6bc7484a9a7f1adf56179d1c3c765d54347293c/master-mtlf.m3u8
-#EXTINF:-1 tvg-id="NUEVE.ar@SD",NUEVE
-http://181.13.252.102:8000/play/a04h/index.m3u
 EXTINF:-1 tvg-id="Trece.py@SD",Trece (1080p)
 #EXTVLCOPT:https://live2.eu-north-1a.cf.dmcdn.net/sec2
 https://live2.eu-north-1a.cf.dmcdn.net/sec2(vOXvI_s2Wqw_cLDH2Qf403MBs8Ab2NLPdqbwSr2WUp0AhkTpH98c_RWFvmTa_muQxTaMaDVbib__FJ6vY3vzyq2ik1YOPzvBBzKsi61Z1fdXgSH6FQLxaY9HGyBTUyb8)/cloud/3/x9ksaba/s/live-480.m3u8
