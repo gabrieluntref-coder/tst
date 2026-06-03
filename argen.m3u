@@ -45,8 +45,6 @@ https://copacogen.desdeparaguay.net/telefuturo/telefuturo_py_alta/media.m3u8?adm
 #EXTINF:-1 tvg-id="PopuTV.py@SD",Popu TV (1080p) tvg-logo="https://yt3.googleusercontent.com/exbBCaessS5ew-F6NFy9u6u6Yy-K7kMZ1OOI9CtlxSC-CK1W6FZaD9j-OqQBv-piZeakhs1ayg=s900-c-k-c0x00ffffff-no-rj", Popu Tv
 #EXTVLCOPT:http-referrer=https://www.popular.com.py/
 https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion
-#EXTINF:-1 tvg-id="Paravision.py@SD",Paravision
-#EXTVLCOPT:http-referrer=https://www.paravision.com.py/
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/120.m3u8
 #EXTINF:-1 tvg-id="NPY.py@SD",NPY (1080p) tvg-logo="https://yt3.googleusercontent.com/KHmZ--eFjIZRJc1ukh0mccEBuXlGawiramdni8Q7yMKA-vDoycoFHy41qq-3l7EJ0CyceF-L=s900-c-k-c0x00ffffff-no-rj",NPY
 #EXTVLCOPT:http-referrer=https://www.npy.com.py/
@@ -103,10 +101,6 @@ https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1596.m3u8
 #EXTINF:-1 tvg-id="TigoSportsPlus.py@SD",Tigo Sports+
 http://45.170.130.224:8000/play/a04i/index.m3u8
-#EXTINF:-1 tvg-id="RedInteriorTV.py@SD",Red Interior TV
-https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8
-#EXTINF:-1 tvg-id="OccidentalTV.py@SD",Occidental TV
-https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8
 #EXTINF:-1 tvg-id="RadioSanCristobal887FM.py@SD" tvg-logo="https://play-lh.googleusercontent.com/EiH50HKNGm1Ft0DL1GcEDl8usUvqFQuaw64EvRf0fRbUDmq_TSiV8aL9PbRjs-qWrvQg",Radio San Cristobal 88.7 FM
 https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8
 #EXTINF:-1 tvg-id="NandePortetepeTV.py@SD",Nande Portetepe TV
