@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="4DmasNoticiasTV.py@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAL2opjhI54QvEybSIW2RlDsj02NRriD5PyA&s"
+#EXTINF:-1 tvg-id="4DmasNoticiasTV.py@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAL2opjhI54QvEybSIW2RlDsj02NRriD5PyA&s",4DmasNOTICIAS
 https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
 #EXTINF:-1 tvg-id="Almayatv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVyamksKxuXzxXRIrKq1W0YQN7VW6V10YpRw&s",Almayatv
 https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8
@@ -114,11 +114,11 @@ https://alba-py-rqp-rqp.stream.mediatiquestream.com/index.m3u8
 https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioNacionaldelParaguay.py@SD"tvg-logo="https://cdn.aptoide.com/imgs/b/3/c/b3ca6e3dfc7eb052638339fbf509c5fb_icon.png",Radio Nacional del Paraguay
 https://stream.paraguaytv.gov.py/memfs/ea8a90e9-10f7-4b00-8e88-42f4a838d74b.m3u8
-#EXTINF:-1 tvg-id="ParaguayTV.py@SD" tvg-logo="https://hoypyspace.sfo2.cdn.digitaloceanspaces.com/imagenes/2018/12/09044502/ptv.jpg",Paraguay TV (1080p)
+#EXTINF:-1 tvg-id="ParaguayTV.py@SD" tvg-logo="https://yt3.googleusercontent.com/0MB4rhwiHP2w7qFVf4Q6Dw7DsKXBV7ugRu3NGPe8qGeI_1rBsr00s0V94jkCs2wCsTAW3d71=s900-c-k-c0x00ffffff-no-rj",Paraguay TV (1080p)
 https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
 #EXTINF:-1 tvg-id="Canal26.ar@SD" tvg-logo="https://yt3.googleusercontent.com/iwy544rQZtfKaTCTqIFUSov8vJk3usPK8bqGzR-JdQwSBEBJiGIacr3v7L3t8w9Xq7Ny6E5z=s900-c-k-c0x00ffffff-no-rj",Canal 26 (1080p)
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
-#EXTINF:-1 tvg-id="ElTrece.ar@SD",El Trece (1080p)
+#EXTINF:-1 tvg-id="ElTrece.ar@SD" tvg_logo"https://static.wikia.nocookie.net/logopedia/images/9/95/Canal_Trece_AR_logo_2004.webp/revision/latest?cb=20240326193654",El Trece (1080p)
 #EXTVLCOPT:http-referrer=https://vodgc.net
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="NETTV.ar@SD",NET TV (720p)
