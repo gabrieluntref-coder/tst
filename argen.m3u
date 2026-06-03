@@ -93,8 +93,6 @@ https://stream.farra.com.py/live/farra_low.m3u8
 https://gentvpeer.desdeparaguay.net/gentvpeer/gentv_py_alta/master.m3u8
 #EXTINF:-1 tvg-id="SNT.py@SD", tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Snt-2000.png/revision/latest?cb=20201213002550",SNT (1080p)
 https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-id="SURTVItapua.py@SD",SUR TV Itapua
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1596.m3u8
 #EXTINF:-1 tvg-id="TigoSportsPlus.py@SD",Tigo Sports+
 http://45.170.130.224:8000/play/a04i/index.m3u8
 #EXTINF:-1 tvg-id="RadioSanCristobal887FM.py@SD" tvg-logo="https://play-lh.googleusercontent.com/EiH50HKNGm1Ft0DL1GcEDl8usUvqFQuaw64EvRf0fRbUDmq_TSiV8aL9PbRjs-qWrvQg",Radio San Cristobal 88.7 FM
