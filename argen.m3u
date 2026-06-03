@@ -7,10 +7,6 @@ https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8
 https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal5TVMax.py@SD",Canal 5 TV Max (720p)
 https://video.wilohosting.com:19360/tvmax/tvmax.m3u8
-#EXTINF:-1 tvg-id="CaritasTV.py@SD",Cáritas TV (1080p)
-https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
-#EXTINF:-1 tvg-id="CosmosTV.py@SD",Cosmos TV (720p)
-https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
 #EXTINF:-1 tvg-id="DismarRadioTV.py@SD",Dismar Radio TV (720p)
 https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
 #EXTINF:-1 tvg-id="FarraPlay.py@SD",Farra Play (720p) [Not 24/7] tvg-logo="https://cdn-profiles.tunein.com/s281085/images/logog.png",Farra Play TV
@@ -21,8 +17,20 @@ https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
 https://tv.invasivamedia.com/hls/limtv.m3u8
 #EXTINF:-1 tvg-id="MiTV.py@SD",MiTV (720p) tvg-logo="https://i.postimg.cc/qvvgzQzD/1200px-LOGO-MITV-ALTA-DEFINICION-2020-PNG.png",Mi TV
 https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
+#EXTINF:-1 tvg-id="Trece.py@SD",Trece (1080p) tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logotrececanal.png",TRECE
+#EXTVLCOPT:https://live2.eu-north-1a.cf.dmcdn.net/sec2
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(sWOE-cNGgxjMRHQYi88igmpTzElftg_-7UMJKirTjsrFgFnecM0ewgz9kmw1arH05d6x1KaoKsCKUtExebaILU7nwrSCa5RIht-pjashzYqnADD9lB3i4wjHwWABqUP1)/cloud/3/x9ksaba/s/live-720.m3u8#cell=lcf2-eu-north-1a
+#EXTINF:-1 tvg-id="Unicanal.py@SD",Unicanal (1080p)
+#EXTVLCOPT:https://live2.eu-north-1a.cf.dmcdn.net/sec2
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(JhthgSButvzbV92uB64_CS1CJf8D7oN9W9eo3s-PLB4S9AbZLlSjsD4gMBxRvEu6L0oVvMcXNH_Z6TPHp8TY9FsogLwQPhEPGlilOj9Hz4eTZo8JRMUYI_zX3IOkUM5C)/cloud/3/x9ko9z8/s/live-720.m3u8#cell=lcf2-eu-north-1b
+#EXTINF:-1 tvg-id="AmericaParaguay.py@SD",America Paraguay (1080p)
+#EXTVLCOPT:https://live2.eu-north-1b.cf.dmcdn.net/sec2
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(tmcEe-q5SXHkAl28xN1WN_zVgSdjrY3FF9QExowyeTsqM1w5zybJjWcr3soOkGVQGxY5GPAH447KCHdji04Ia0vDfdH7bOtzVj45As7DGe6VrZwbbmBGlb8Hs1NlXbXU)/cloud/3/x9lh4mu/d/live-480.m3u8#cell=lcf2-eu-north-1a
+#EXTINF:-1 tvg-id="ABC.py@SD",ABC (1080p)
+#EXTVLCOPT:https://live2.eu-north-1a.cf.dmcdn.net/sec2
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(UnvbpseEZmyAaypqBol1SL79NBPY3KoPR7wiGrpdyW5oW9ChDC9jh3WmN_-ZRGeLySuJi7igepdc9GimrMhd6MrNlgr-8vEpbo8-uWE4NuANc_-3_D8h5S2cCZY5WZlc)/cloud/3/x9skr3m/d/live-480.m3u8#cell=lcf2-eu-north-1a
 #EXTINF:-1 tvg-id="NextHD.py@SD",Next HD (480p) tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo7tYqQMWckZnZRP0OqfBETm4xq0_Jig0wXw&s",Next HD
-https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+https://edge.enhdtv.com/nexthd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RepublicaTV.py@SD",República TV (720p) tvg-logo="https://pbs.twimg.com/profile_images/1624424184867586050/5YARpOkC_400x400.jpg",RepublicaTv
 https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8
 #EXTINF:-1 tvg-id="SucesoTV.py@SD",Suceso TV [Not 24/7] tvg-logo="https://pbs.twimg.com/profile_images/1914131655813464064/_mzzJDMy_400x400.jpg",Sucesotv
@@ -31,7 +39,7 @@ https://live.enhdtv.com:8081/8060/index.m3u8
 https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Unicanal.py@SD",Unicanal (1080p) tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/03/unicanal-logo-tv-t%C3%A9l%C3%A9vision-padel-paraguay-1024x576.jpg.webp",Unicanal
 #EXTVLCOPT:http-referrer=https://unicanal.com.py/
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(eG6E9E8d_yhmbaFmCcq2EyirQrpVQ4Y8eo-ijXt0FqtrzHD411wil2XTXot61SKy1_evjuRo1rd9qzYAmduhhs5QAXlVLd4f6bCEnU94KCSCk-xvySVCvzIijcpX2-Fk)/cloud/3/x9ko9z8/s/live-380.m3u8
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(JhthgSButvzbV92uB64_CS1CJf8D7oN9W9eo3s-PLB4S9AbZLlSjsD4gMBxRvEu6L0oVvMcXNH_Z6TPHp8TY9FsogLwQPhEPGlilOj9Hz4eTZo8JRMUYI_zX3IOkUM5C)/cloud/3/x9ko9z8/s/live-720.m3u8#cell=lcf2-eu-north-1b
 #EXTINF:-1 tvg-id="Telefuturo.py@SD",Telefuturo (1080p) tvg-logo="https://yt3.googleusercontent.com/1D-d0TjwChUBOrteOTQwx-WU-C50T9JtfniY2G27b7LDpLO7L5LYhOuE-mAbfdfp-gWZ3-x5NA=s900-c-k-c0x00ffffff-no-rj",Telefuturo
 #EXTVLCOPT:http-referrer=https://www.telefuturo.com.py
 https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_baja/chunklist_w1879554083.m3u8?k=c9aad3b1e31369379cc56ae28120dce73f12627965aa7cc82d636289cf9da7c4&exp=1780309922
@@ -65,9 +73,6 @@ https://copacogen.desdeparaguay.net/gentv/gentv_py_alta/playlist.m3u8?admin=naci
 #EXTINF:-1 tvg-id="E40.py@SD",E40 (1080p) tvg-logo="https://i1.sndcdn.com/artworks-0EiByyifOhZWPNcS-5fHXJQ-t500x500.jpg",E40
 #EXTVLCOPT:http-referrer=https://www.estacion40.com.py/
 https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion
-#EXTINF:-1 tvg-id="DelReyTV.py@SD",Del Rey TV (1080p)
-#EXTVLCOPT:http-referrer=https://tvonline.com.py/
-https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8
 #EXTINF:-1 tvg-id="Canal8VisionTV.py@SD",Canal 8 Vision TV (1080p)
 #EXTVLCOPT:http-referrer=https://www.visioncomunicaciones.com.py/
 https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8
@@ -151,15 +156,3 @@ https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TELEFE.ar@SD",TELEFE
 http://190.7.19.197:232/play/a059/index.m3u
-#EXTINF:-1 tvg-id="Trece.py@SD",Trece (1080p) tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logotrececanal.png",TRECE
-#EXTVLCOPT:https://live2.eu-north-1a.cf.dmcdn.net/sec2
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(vOXvI_s2Wqw_cLDH2Qf403MBs8Ab2NLPdqbwSr2WUp0AhkTpH98c_RWFvmTa_muQxTaMaDVbib__FJ6vY3vzyq2ik1YOPzvBBzKsi61Z1fdXgSH6FQLxaY9HGyBTUyb8)/cloud/3/x9ksaba/s/live-480.m3u8
-#EXTINF:-1 tvg-id="Unicanal.py@SD",Unicanal (1080p)
-#EXTVLCOPT:https://live2.eu-north-1a.cf.dmcdn.net/sec2
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(eG6E9E8d_yhmbaFmCcq2EyirQrpVQ4Y8eo-ijXt0FqtrzHD411wil2XTXot61SKy1_evjuRo1rd9qzYAmduhhs5QAXlVLd4f6bCEnU94KCSCk-xvySVCvzIijcpX2-Fk)/cloud/3/x9ko9z8/s/live-380.m3u8
-#EXTINF:-1 tvg-id="AmericaParaguay.py@SD",America Paraguay (1080p)
-#EXTVLCOPT:https://live2.eu-north-1b.cf.dmcdn.net/sec2
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(RGuHmR0NS7nxFj2j8XargcbJRgS7htfw7OLROYt9KdjMydAIcxzQWRdzn2U592oCOmk1k8dHvqHsXseiAgd3ysb-gFLypLD0dfseYNz6aiil2G0NmoYzTzrXq2LyRboo)/cloud/3/x9lh4mu/d/live-720.m3u8
-#EXTINF:-1 tvg-id="ABC.py@SD",ABC (1080p)
-#EXTVLCOPT:https://live2.eu-north-1a.cf.dmcdn.net/sec2
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(e0fTE3UsyF2LWlrxCiGwtE1SCTK7BgAxwqZZXxCXB6vSjaj51sq9sfNJfp9hiAZnDUwHnMCqYCJrX-AqhdCHLJzzX8GYUHZUGTGqrVxXTRNoiyAscORmmC9fQVqjdlRy)/cloud/3/x9skr3m/d/live-720.m3u8
