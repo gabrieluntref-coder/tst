@@ -140,3 +140,5 @@ https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="NETTV.ar@SD",NET TV (720p)
 https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Rockandpop.py@SD",Rock and Pop (1080p)
+https://rds3.desdeparaguay.net/rockandpoptv/rockandpoptv_baja/chunklist_w1937829919.m3u8?k=0f8938dc5e9e722f8a090174c0022ef95bfe02887601ac9bb717c7666776f582
