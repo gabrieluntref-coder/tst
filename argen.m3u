@@ -129,3 +129,9 @@ https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
 https://rds3.desdeparaguay.net/rockandpoptv/rockandpoptv_baja/chunklist_w1937829919.m3u8?k=0f8938dc5e9e722f8a090174c0022ef95bfe02887601ac9bb717c7666776f582
 #EXTINF:-1 tvg-id="Telefe.ar@SD",Telefe tvg-logo="https://i.ytimg.com/vi/Q7Jlv8DxIaE/sddefault.jpg",Telefe
 https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1780477568~exp=1780484768~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=0a3b38ea9523549c5472ecba2a95b8d2c9d657b3174c88b1187bb5718801dc6f
+#EXTINF:-1 tvg-id="americatvparaguay.py@SD",America tv Paraguay m3u (1080p)
+#EXTVLCOPT:http-referrer=https://live2.eu-north-1b.cf.dmcdn.net
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(Z4c83ywZR768fP6VMYunWkkf6I_6MDy6nXIx-9XGk_Z8owTxgz77i-io0cbUSIACcPplzZHOwiuEzs_XL_OxM8z3iCm-De_SI5vej3nHqtVAk5aA4I1_23pZV3lghMR7)/cloud/3/x9lh4mu/d/live-720.m3u8
+#EXTINF:-1 tvg-id="americatvparaguay.py@SD",America tv Paraguay (1080p)
+#EXTVLCOPT:http-referrer=https://live2.eu-north-1b.cf.dmcdn.net
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(vZsqS_89apdgTM4xcMNE5jdLMf1Ph3UfV4pyvPUDlbWrNbHaFlAdubWqTSfZcl7otdatIAxQ7Ee2UQWz2g0-2NP7EJBamy9lIPxkDUTIlkoDJp7De1IwAj8WwLvfvY4_)/cloud/3/x9lh4mu/d/live-480.m3u8#cell=lcf2-eu-north-1b
