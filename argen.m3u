@@ -132,3 +132,6 @@ https://cdndirector.dailymotion.com/cdn/live/video/x9lh4mu.m3u8?sec=bv7f9UcA-TLt
 #EXTINF:-1 tvg-id="americatvparaguay.py@SD",America tv Paraguay (1080p)
 #EXTVLCOPT:https://www.dailymotion.com
 https://www.dailymotion.com/video/x9lh4mu
+#EXTINF:-1 tvg-id="Trece.py@SD",Trece (1080p)
+#EXTVLCOPT:https://cdndirector.dailymotion.com/
+https://cdndirector.dailymotion.com/cdn/live/video/x9ko9z8.m3u8?sec=BbV59KtXfpQoxgr6bhw__246wqqLxfesS13e6ZtEINi90j3Ngv5lwHwJhdlLfcdZzPPmIXuEUaNuNLp0BEjVecrfqLdp2jY4SSIM0qhpKrE&dmV1st=efdd9af8-66e4-4c31-9dae-33123486b92a&dmTs=27333
