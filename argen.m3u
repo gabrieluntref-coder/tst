@@ -37,7 +37,7 @@ https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
 https://cdndirector.dailymotion.com/cdn/live/video/x9ko9z8.m3u8?sec=BbV59KtXfpQoxgr6bhw__5OknijPVLqak5yyc-O3eWk0J174zE8dqzTOgtJ76irH0aA2LQBZSEa3L5jBqkR10gOYuwIqFoAnGnRGO7uNFmQ
 #EXTINF:-1 tvg-id="Telefuturo.py@SD",Telefuturo op2 tvg-logo="https://yt3.googleusercontent.com/1D-d0TjwChUBOrteOTQwx-WU-C50T9JtfniY2G27b7LDpLO7L5LYhOuE-mAbfdfp-gWZ3-x5NA=s900-c-k-c0x00ffffff-no-rj",Telefuturo op2
 #EXTVLCOPT:http-referrer=https://www.desdeparaguay.com.py
-https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_baja/chunklist_w2050776615.m3u8?k=223dc54e850675ccbbdac182604c8c4659e893f9336a1893483584e2e2138784&exp=1780579365
+https://rds3gen.desdeparaguay.net/telefuturo/telefuturo_int_baja/playlist.m3u8?k=907ceb4e9f6a682f8367a5df495e90e372a6257cfe36db7eee047946fd7f1ab5
 #EXTINF:-1 tvg-id="PopuTV.py@SD",Popu TV (1080p) tvg-logo="https://yt3.googleusercontent.com/exbBCaessS5ew-F6NFy9u6u6Yy-K7kMZ1OOI9CtlxSC-CK1W6FZaD9j-OqQBv-piZeakhs1ayg=s900-c-k-c0x00ffffff-no-rj", Popu Tv
 #EXTVLCOPT:http-referrer=https://www.popular.com.py/
 https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion
