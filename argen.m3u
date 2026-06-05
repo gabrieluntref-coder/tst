@@ -21,6 +21,9 @@ https://live2.eu-north-1b.cf.dmcdn.net/sec2(JhthgSButvzbV92uB64_CS1CJf8D7oN9W9eo
 #EXTINF:-1 tvg-id="America.py@SD", tvg-logo="https://i0.wp.com/television.com.py/wp-content/uploads/2023/08/img_5822.jpg?fit=1080%2C1080&ssl=1",America Paraguay (1080p)
 #EXTVLCOPT:https://cdndirector.dailymotion.com/
 https://www.dailymotion.com/video/x9lh4mu
+#EXTINF:-1 tvg-id="America.py@SD", tvg-logo="https://i0.wp.com/television.com.py/wp-content/uploads/2023/08/img_5822.jpg?fit=1080%2C1080&ssl=1",America Paraguay (1080p)
+#EXTVLCOPT:https://cdndirector.dailymotion.com/
+https://cdndirector.dailymotion.com/cdn/live/video/x9lh4mu.m3u8?sec=NrPVd7X41ckPt2ASc-59cLPxxeVLZeSd2fva8Vt4yV-nT7YOElNiQZssCbPsZDaft8dh6xUmbhw2cft6K0_fVtifNO2Tp7v-SaGzB4-axYg&dmTs=596192&dmV1st=F9D3B719FE0691F640C3153172BC0FAD
 #EXTINF:-1 tvg-id="ABC.py@SD" tvg-logo="https://images.seeklogo.com/logo-png/0/2/abc-color-diario-logo-png_seeklogo-1891.png",ABC (1080p)
 #EXTVLCOPT:https://live2.eu-north-1a.cf.dmcdn.net/sec2
 https://live2.eu-north-1a.cf.dmcdn.net/sec2(jeeN-ztmvuhbg9fTn3JuPsbMht9HY7CzITAfCw3adNTimdisRGmCXmVan6IChJ85fHY7pTCjTvCJqD0lzUAMoPWOunq-m6No3i2z4k9PhLc340gbSrr_NOs6-BSvCCsn)/cloud/3/x9skr3m/d/live-720.m3u8#cell=lcf2-eu-north-1a
