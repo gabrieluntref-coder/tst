@@ -119,7 +119,7 @@ https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
 #EXTINF:-1 tvg-id="Canal26.ar@SD" tvg-logo="https://yt3.googleusercontent.com/iwy544rQZtfKaTCTqIFUSov8vJk3usPK8bqGzR-JdQwSBEBJiGIacr3v7L3t8w9Xq7Ny6E5z=s900-c-k-c0x00ffffff-no-rj",Canal 26 (1080p)
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 tvg-id="ElTrece.ar@SD" tvg_logo"https://static.wikia.nocookie.net/logopedia/images/9/95/Canal_Trece_AR_logo_2004.webp/revision/latest?cb=20240326193654",El Trece (1080p)
-#EXTVLCOPT:http-referrer=https://vodgc.net
+#EXTVLCOPT:http-referrer=https://trece.com.py/
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="NETTV.ar@SD",NET TV (720p)
 https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
