@@ -14,13 +14,14 @@ http://159.203.148.226/live/farra.m3u8
 #EXTINF:-1 tvg-id="MiTV.py@SD",MiTV (720p) tvg-logo="https://i.postimg.cc/qvvgzQzD/1200px-LOGO-MITV-ALTA-DEFINICION-2020-PNG.png",Mi TV
 https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 #EXTINF:-1 tvg-id="Trece.py@SD",Trece (1080p) tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logotrececanal.png",TRECE
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(J8M4xQkR1IXLvQCkeaDNLgzvvDQ_VtzWTmugDKheyfwKvymqLptWN5idffxBga8x8OIf1r0O8T93Sy5MDh_JT63qesW18AGENnV3ARN9m5DKjNbq7-8lJI9qMdsVqGi1)/cloud/3/x9ksaba/s/live-720.m3u8
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+https://cdndirector.dailymotion.com/cdn/live/video/x9ksaba.m3u8?sec=IDwhuxxKIfaDDRmtLOv5lx_HXHyjO8Jr3aFXxzAtc0GOO03yPskbDk5edGp47iihQy-Bd5zXMaDKfkGnwg2wjotAZivNuHg8_shU800b8OQ&dmV1st=efdd9af8-66e4-4c31-9dae-33123486b92a&dmTs=27333
 #EXTINF:-1 tvg-id="America.py@SD", tvg-logo="https://i0.wp.com/television.com.py/wp-content/uploads/2023/08/img_5822.jpg?fit=1080%2C1080&ssl=1",America Paraguay (1080p)
 #EXTVLCOPT:https://cdndirector.dailymotion.com/
 https://www.dailymotion.com/video/x9lh4mu
 #EXTINF:-1 tvg-id="America.py@SD", tvg-logo="https://i0.wp.com/television.com.py/wp-content/uploads/2023/08/img_5822.jpg?fit=1080%2C1080&ssl=1",America Paraguay (1080p)
 #EXTVLCOPT:https://cdndirector.dailymotion.com/
-https://cdndirector.dailymotion.com/cdn/live/video/x9lh4mu.m3u8?sec=NrPVd7X41ckPt2ASc-59cLPxxeVLZeSd2fva8Vt4yV-nT7YOElNiQZssCbPsZDaft8dh6xUmbhw2cft6K0_fVtifNO2Tp7v-SaGzB4-axYg&dmTs=596192&dmV1st=F9D3B719FE0691F640C3153172BC0FAD
+https://cdndirector.dailymotion.com/cdn/live/video/x9lh4mu.m3u8?sec=ECKljOC85uTD1Lg7AXAL9O5_il4LOa1V8VLW9yZazOsj8a9HfJSMU1cyVrEb5IZGnqC49X1YrmRe5-UCUJi3tDvDrT7cJVtaDX9eEqGsiN8&dmTs=596192&dmV1st=F9D3B719FE0691F640C3153172BC0FAD
 #EXTINF:-1 tvg-id="ABC.py@SD" tvg-logo="https://images.seeklogo.com/logo-png/0/2/abc-color-diario-logo-png_seeklogo-1891.png",ABC (1080p)
 #EXTVLCOPT:https://live2.eu-north-1a.cf.dmcdn.net/sec2
 https://live2.eu-north-1a.cf.dmcdn.net/sec2(jeeN-ztmvuhbg9fTn3JuPsbMht9HY7CzITAfCw3adNTimdisRGmCXmVan6IChJ85fHY7pTCjTvCJqD0lzUAMoPWOunq-m6No3i2z4k9PhLc340gbSrr_NOs6-BSvCCsn)/cloud/3/x9skr3m/d/live-720.m3u8#cell=lcf2-eu-north-1a
