@@ -36,6 +36,7 @@ https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Unicanal.py@SD",Unicanal (1080p) tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/03/unicanal-logo-tv-t%C3%A9l%C3%A9vision-padel-paraguay-1024x576.jpg.webp",Unicanal
 https://cdndirector.dailymotion.com/cdn/live/video/x9ko9z8.m3u8?sec=BbV59KtXfpQoxgr6bhw__5OknijPVLqak5yyc-O3eWk0J174zE8dqzTOgtJ76irH0aA2LQBZSEa3L5jBqkR10gOYuwIqFoAnGnRGO7uNFmQ
 #EXTINF:-1 tvg-id="Telefuturo.py@SD",Telefuturo op2 tvg-logo="https://yt3.googleusercontent.com/1D-d0TjwChUBOrteOTQwx-WU-C50T9JtfniY2G27b7LDpLO7L5LYhOuE-mAbfdfp-gWZ3-x5NA=s900-c-k-c0x00ffffff-no-rj",Telefuturo op2
+#EXTVLCOPT:http-referrer=https://www.telefuturo.com.py/
 https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_baja/media_w771723482_1030.m3u8?k=f26890b72c77df264f7a97be0398f0c8d0e9f2cb5d21d9fa96432fb2c970796e&exp=1780654676
 #EXTINF:-1 tvg-id="PopuTV.py@SD",Popu TV (1080p) tvg-logo="https://yt3.googleusercontent.com/exbBCaessS5ew-F6NFy9u6u6Yy-K7kMZ1OOI9CtlxSC-CK1W6FZaD9j-OqQBv-piZeakhs1ayg=s900-c-k-c0x00ffffff-no-rj", Popu Tv
 #EXTVLCOPT:http-referrer=https://www.popular.com.py/
