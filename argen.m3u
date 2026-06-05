@@ -18,8 +18,8 @@ https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 https://cdndirector.dailymotion.com/cdn/live/video/x9ksaba.m3u8?sec=IDwhuxxKIfaDDRmtLOv5lw-0DMRaM-fWwUyweLvXBz-9J_yhlyJsMfQsE2hnPoXcENBO9hU-H207Mh0xOs75QYaeIQhxs2o0Qp6tIHop2ks
 #EXTVLCOPT:https://live2.eu-north-1a.cf.dmcdn.net/sec2
 https://live2.eu-north-1b.cf.dmcdn.net/sec2(JhthgSButvzbV92uB64_CS1CJf8D7oN9W9eo3s-PLB4S9AbZLlSjsD4gMBxRvEu6L0oVvMcXNH_Z6TPHp8TY9FsogLwQPhEPGlilOj9Hz4eTZo8JRMUYI_zX3IOkUM5C)/cloud/3/x9ko9z8/s/live-720.m3u8#cell=lcf2-eu-north-1b
-#EXTINF:-1 tvg-id="AmericaParaguay.py@SD", tvg-logo="https://i0.wp.com/television.com.py/wp-content/uploads/2023/08/img_5822.jpg?fit=1080%2C1080&ssl=1",America Paraguay (1080p)
-#EXTVLCOPT:https://live2.eu-north-1b.cf.dmcdn.net/sec2
+#EXTINF:-1 tvg-id="America.py@SD", tvg-logo="https://i0.wp.com/television.com.py/wp-content/uploads/2023/08/img_5822.jpg?fit=1080%2C1080&ssl=1",America Paraguay (1080p)
+#EXTVLCOPT:https://live2.eu-north-1b.cf.dmcdn.net/sec
 https://www.dailymotion.com/video/x9lh4mu
 #EXTINF:-1 tvg-id="ABC.py@SD" tvg-logo="https://images.seeklogo.com/logo-png/0/2/abc-color-diario-logo-png_seeklogo-1891.png",ABC (1080p)
 #EXTVLCOPT:https://live2.eu-north-1a.cf.dmcdn.net/sec2
