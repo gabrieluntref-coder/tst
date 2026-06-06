@@ -138,3 +138,6 @@ https://cdndirector.dailymotion.com/cdn/live/video/x9ksaba.m3u8?sec=RQRf_N-LKoWB
 #EXTINF:-1 tvg-id="Unicanal.py@SD",Unicanal (1080p)
 #EXTVLCOPT:http-referrer=https://cdndirector.dailymotion.com/
 https://live2.eu-north-1b.cf.dmcdn.net/sec2(5rpN-ETaoKJaRkY21W5dGPSFmEYwh4VryvlHdLKnkZrxmMxxiq_GThhRIPYuozswU-IYyKrjlyNJc8fDnYO-BPll1dRG0ZS4dZw1zX-z0oWl8pfSj1fzmCFJUdqXYXmI)/cloud/3/x9ko9z8/s/live-720.m3u8
+#EXTINF:-1 tvg-id="Trece.py@SD",Trece
+#EXTVLCOPT:http-referrer=https://trece.com.py/
+https://cdndirector.dailymotion.com/cdn/live/video/x9ksaba.m3u8?sec=RQRf_N-LKoWB6lHgYDkdZxMbq4A-HboCWLAOzO8f3TZAxbGZqOFR_QEj4WGBrNieO32DdyMIdxOPxrCUSv7Huw
