@@ -14,8 +14,8 @@ http://159.203.148.226/live/farra.m3u8
 #EXTINF:-1 tvg-id="MiTV.py@SD",MiTV (720p) tvg-logo="https://i.postimg.cc/qvvgzQzD/1200px-LOGO-MITV-ALTA-DEFINICION-2020-PNG.png",Mi TV
 https://rds3gen.desdeparaguay.net/mitv/mitv/playlist.m3u8?admin=mitvitapua?k=67119d8db024b58eaaeb7069ca41b76539fcc13dee4046dc6ae1ee82ac014872
 #EXTINF:-1 tvg-id="Trece.py@SD",Trece (1080p) tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logotrececanal.png",TRECE
-#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://cdndirector.dailymotion.com/cdn/live/video/x9ksaba.m3u8?sec=IDwhuxxKIfaDDRmtLOv5lx_HXHyjO8Jr3aFXxzAtc0GOO03yPskbDk5edGp47iihQy-Bd5zXMaDKfkGnwg2wjotAZivNuHg8_shU800b8OQ&dmV1st=efdd9af8-66e4-4c31-9dae-33123486b92a&dmTs=27333
+#EXTVLCOPT:http-referrer=https://trece.com.py/
+https://cdndirector.dailymotion.com/cdn/live/video/x9ksaba.m3u8?sec=RQRf_N-LKoWB6lHgYDkdZxMbq4A-HboCWLAOzO8f3TZAxbGZqOFR_QEj4WGBrNieO32DdyMIdxOPxrCUSv7Huw
 #EXTINF:-1 tvg-id="America.py@SD", tvg-logo="https://i0.wp.com/television.com.py/wp-content/uploads/2023/08/img_5822.jpg?fit=1080%2C1080&ssl=1",America Paraguay (1080p)
 #EXTVLCOPT:https://cdndirector.dailymotion.com/
 https://cdndirector.dailymotion.com/cdn/live/video/x9lh4mu.m3u8?sec=yKyvqWSdmDSVOp9V2jcSSxI9v1Jqx_fyXGAlwasGEYVI83AT_eCci3bIb2UZnIQRH4EOumoc15xgx9-balDLGYYM2GVRnHEdfE1WPJe-pWI&dmTs=388763&dmV1st=FFE18832EFA7491E884E65DB64DE1D12
@@ -132,9 +132,10 @@ https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master
 https://cdndirector.dailymotion.com/cdn/live/video/x9lh4mu.m3u8?sec=e4Ak1Gy-31M99y4UbYK-JC5MXn9QqaXr3EcyNsYdKvnqpauIDxZb9eEs7rhzHJ-jgJ_9_T5nOLpl5wW-BJBMT2Pt2Qdzdx0bgWJw5ht6W0M&dmTs=858189&dmV1st=7C4A99F26B1A49EB96C011AE67022782
 #EXTINF:-1 tvg-id="americatvparaguay.py@SD",America tv Paraguay (1080p)
 https://www.dailymotion.com/video/x9lh4mu
-#EXTINF:-1 tvg-id="Trece.py@SD",Trece (1080p)
+#EXTINF:-1 tvg-id="Trece.py@SD",Trece op2
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdndirector.dailymotion.com/
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(m8ur2X-5w7O2Aoi-2lXC3xur0iFr29EFWTsEYAfU81EiwEqv16M9WvoiJXj8XJSFa-6kS_oxOSKpeULyWUJfjpexxjXyoIRINsK2nG_L-Qcla8di-D5eYmp-7V7Lr_xg)/cloud/3/x9ksaba/s/live-720.m3u8
+https://cdndirector.dailymotion.com/cdn/live/video/x9ksaba.m3u8?sec=RQRf_N-LKoWB6lHgYDkdZxMbq4A-HboCWLAOzO8f3TZAxbGZqOFR_QEj4WGBrNieO32DdyMIdxOPxrCUSv7Huw
 #EXTINF:-1 tvg-id="Unicanal.py@SD",Unicanal (1080p)
 #EXTVLCOPT:http-referrer=https://cdndirector.dailymotion.com/
 https://live2.eu-north-1b.cf.dmcdn.net/sec2(5rpN-ETaoKJaRkY21W5dGPSFmEYwh4VryvlHdLKnkZrxmMxxiq_GThhRIPYuozswU-IYyKrjlyNJc8fDnYO-BPll1dRG0ZS4dZw1zX-z0oWl8pfSj1fzmCFJUdqXYXmI)/cloud/3/x9ko9z8/s/live-720.m3u8
