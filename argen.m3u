@@ -23,7 +23,7 @@ https://www.dailymotion.com/video/x9lh4mu
 #EXTVLCOPT:http-referrer=https://cdndirector.dailymotion.com/
 https://www.dailymotion.com/video/x9lh4mu
 #EXTINF:-1 tvg-id="America.py@SD", tvg-logo="https://i0.wp.com/television.com.py/wp-content/uploads/2023/08/img_5822.jpg?fit=1080%2C1080&ssl=1",America Paraguay (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdndirector.dailymotion.com/
 https://cdndirector.dailymotion.com/cdn/live/video/x9lh4mu.m3u8?sec=ECKljOC85uTD1Lg7AXAL9O5_il4LOa1V8VLW9yZazOsj8a9HfJSMU1cyVrEb5IZGnqC49X1YrmRe5-UCUJi3tDvDrT7cJVtaDX9eEqGsiN8&dmTs=596192&dmV1st=F9D3B719FE0691F640C3153172BC0FAD
 #EXTINF:-1 tvg-id="ABC.py@SD" tvg-logo="https://images.seeklogo.com/logo-png/0/2/abc-color-diario-logo-png_seeklogo-1891.png",ABC (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
