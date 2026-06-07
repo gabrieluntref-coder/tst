@@ -15,7 +15,7 @@ http://159.203.148.226/live/farra.m3u8
 https://rds3gen.desdeparaguay.net/mitv/mitv/playlist.m3u8?admin=mitvitapua?k=67119d8db024b58eaaeb7069ca41b76539fcc13dee4046dc6ae1ee82ac014872
 #EXTINF:-1 tvg-id="Trece.py@SD",Trece (1080p) tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logotrececanal.png",TRECE
 #EXTVLCOPT:http-referrer=https://trece.com.py/
-https://cdndirector.dailymotion.com/cdn/live/video/x9ksaba.m3u8?sec=RQRf_N-LKoWB6lHgYDkdZxMbq4A-HboCWLAOzO8f3TZAxbGZqOFR_QEj4WGBrNieO32DdyMIdxOPxrCUSv7Huw
+http://45.170.130.224:8000/play/a02m/index.m3u8
 #EXTINF:-1 tvg-id="America.py@SD", tvg-logo="https://i0.wp.com/television.com.py/wp-content/uploads/2023/08/img_5822.jpg?fit=1080%2C1080&ssl=1",America Paraguay (1080p)
 #EXTVLCOPT:http-referrer=https://cdndirector.dailymotion.com/
 https://www.dailymotion.com/video/x9lh4mu
