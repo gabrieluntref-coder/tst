@@ -31,7 +31,7 @@ https://live.enhdtv.com:8081/8060/index.m3u8
 #EXTINF:-1 tvg-id="UnionTV.py@SD",UnionTV
 https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Unicanal.py@SD",Unicanal (1080p) tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/03/unicanal-logo-tv-t%C3%A9l%C3%A9vision-padel-paraguay-1024x576.jpg.webp",Unicanal
-https://cdndirector.dailymotion.com/cdn/live/video/x9ko9z8.m3u8?sec=BbV59KtXfpQoxgr6bhw__5OknijPVLqak5yyc-O3eWk0J174zE8dqzTOgtJ76irH0aA2LQBZSEa3L5jBqkR10gOYuwIqFoAnGnRGO7uNFmQ
+http://45.170.130.224:8000/play/a04y/index.m3u8
 #EXTINF:-1 tvg-id="Telefuturo.py@SD",Telefuturo op2 tvg-logo="https://yt3.googleusercontent.com/1D-d0TjwChUBOrteOTQwx-WU-C50T9JtfniY2G27b7LDpLO7L5LYhOuE-mAbfdfp-gWZ3-x5NA=s900-c-k-c0x00ffffff-no-rj",Telefuturo op2
 #EXTVLCOPT:http-referrer=https://www.telefuturo.com.py/
 https://copacogen.desdeparaguay.net/telefuturo/telefuturo_alta/index.m3u8?admin=tvaccion
@@ -115,9 +115,6 @@ https://stream.paraguaytv.gov.py/memfs/ea8a90e9-10f7-4b00-8e88-42f4a838d74b.m3u8
 https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
 #EXTINF:-1 tvg-id="Canal26.ar@SD" tvg-logo="https://yt3.googleusercontent.com/iwy544rQZtfKaTCTqIFUSov8vJk3usPK8bqGzR-JdQwSBEBJiGIacr3v7L3t8w9Xq7Ny6E5z=s900-c-k-c0x00ffffff-no-rj",Canal 26 (1080p)
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
-#EXTINF:-1 tvg-id="ElTrece.ar@SD" tvg_logo"https://static.wikia.nocookie.net/logopedia/images/9/95/Canal_Trece_AR_logo_2004.webp/revision/latest?cb=20240326193654",El Trece (1080p)
-#EXTVLCOPT:http-referrer=https://trece.com.py/
-https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="NETTV.ar@SD",NET TV (720p)
 https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Rockandpop.py@SD" tvg-logo="https://radiosdeparaguay.com.py/wp-content/uploads/2021/06/Rock-and-Pop.jpg",Rock and Pop (1080p)
@@ -125,19 +122,6 @@ https://rds3.desdeparaguay.net/rockandpoptv/rockandpoptv_baja/chunklist_w1937829
 #EXTINF:-1 tvg-id="Telefe.ar@SD",Telefe tvg-logo="https://i.ytimg.com/vi/Q7Jlv8DxIaE/sddefault.jpg",Telefe
 #EXTVLCOPT:https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8
 https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1780570469~exp=1780577669~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=5c460d13aa8ad392828ac3c94e146b4222faa74ffba6c13e12e2e60ac5ccd960
-#EXTINF:-1 tvg-id="americatvparaguay.py@SD",America tv Paraguay m3u (1080p)
-https://cdndirector.dailymotion.com/cdn/live/video/x9lh4mu.m3u8?sec=e4Ak1Gy-31M99y4UbYK-JC5MXn9QqaXr3EcyNsYdKvnqpauIDxZb9eEs7rhzHJ-jgJ_9_T5nOLpl5wW-BJBMT2Pt2Qdzdx0bgWJw5ht6W0M&dmTs=858189&dmV1st=7C4A99F26B1A49EB96C011AE67022782
-#EXTINF:-1 tvg-id="americatvparaguay.py@SD",America tv Paraguay (1080p)
-https://www.dailymotion.com/video/x9lh4mu
-#EXTINF:-1 tvg-id="Trece.py@SD",Trece op2
-#EXTVLCOPT:http-referrer=https://trece.com.py/
-https://cdndirector.dailymotion.com/cdn/live/video/x9ksaba.m3u8?sec=RQRf_N-LKoWB6lHgYDkdZxMbq4A-HboCWLAOzO8f3TZAxbGZqOFR_QEj4WGBrNieO32DdyMIdxOPxrCUSv7Huw
-#EXTINF:-1 tvg-id="Unicanal.py@SD",Unicanal (1080p)
-#EXTVLCOPT:http-referrer=https://cdndirector.dailymotion.com/
-https://cdndirector.dailymotion.com/cdn/live/video/x9ko9z8.m3u8?sec=3VMSe07PC_RNaFGv5_CyeFnt80PTYJzkMCfyIcLReArDGKHUbR86rc916iYZXY6DbDHOEI46Vj-xiYkIVv4Tdw
-#EXTINF:-1 tvg-id="Trece.py@SD",Trece
-#EXTVLCOPT:http-referrer=https://trece.com.py/
-https://cdndirector.dailymotion.com/cdn/live/video/x9ksaba.m3u8?sec=RQRf_N-LKoWB6lHgYDkdZxMbq4A-HboCWLAOzO8f3TZAxbGZqOFR_QEj4WGBrNieO32DdyMIdxOPxrCUSv7Huw
 #EXTINF:-1 tvg-id="0917" tvg-name="Canal 26" group-title="Noticias" tvg-logo="https://files.catbox.moe/n6c2ol.png", Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 tvg-id="0905" tvg-name="TN" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/3840px-TN_todo_noticias_logo.svg.png", TN
