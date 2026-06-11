@@ -124,9 +124,6 @@ https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Rockandpop.py@SD" tvg-logo="https://radiosdeparaguay.com.py/wp-content/uploads/2021/06/Rock-and-Pop.jpg",Rock and Pop (1080p)
 https://rds3.desdeparaguay.net/rockandpoptv/rockandpoptv_baja/chunklist_w1937829919.m3u8?k=0f8938dc5e9e722f8a090174c0022ef95bfe02887601ac9bb717c7666776f582
-#EXTINF:-1 tvg-id="Telefe.ar@SD",Telefe tvg-logo="https://i.ytimg.com/vi/Q7Jlv8DxIaE/sddefault.jpg",Telefe
-#EXTVLCOPT:https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8
-https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1780570469~exp=1780577669~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=5c460d13aa8ad392828ac3c94e146b4222faa74ffba6c13e12e2e60ac5ccd960
 #EXTINF:-1 tvg-id="0917" tvg-name="Canal 26" group-title="Noticias" tvg-logo="https://files.catbox.moe/n6c2ol.png", Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 tvg-id="0905" tvg-name="TN" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/3840px-TN_todo_noticias_logo.svg.png", TN
