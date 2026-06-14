@@ -16,11 +16,12 @@ https://rds3gen.desdeparaguay.net/mitv/mitv/playlist.m3u8?admin=mitvitapua?k=671
 #EXTINF:-1 tvg-id="Trece.py@SD",Trece (1080p) tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logotrececanal.png",TRECE
 #EXTVLCOPT:http-referrer=https://trece.com.py/
 http://45.170.130.224:8000/play/a02m/index.m3u8
-#EXTINF:-1 tvg-id="Treceop2.py@SD",Trece op2 (1080p) tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logotrececanal.png",TRECE op2
+#EXTINF:-1 tvg-id="Trece.py@SD",Treceop2 (1080p) tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logotrececanal.png",TRECE op2
 #EXTVLCOPT:http-referrer=https://trece.com.py/
+http://45.170.130.224:8000/play/a050/index.m3u8
 #EXTINF:-1 tvg-id="America.py@SD", tvg-logo="https://i0.wp.com/television.com.py/wp-content/uploads/2023/08/img_5822.jpg?fit=1080%2C1080&ssl=1",America Paraguay (1080p)
 #EXTVLCOPT:http-referrer=https://cdndirector.dailymotion.com/
-http://45.170.130.224:8000/play/a050/index.m3u8
+http://45.170.130.224:8000/play/a02o/index.m3u8
 #EXTINF:-1 tvg-id="ABC.py@SD" tvg-logo="https://images.seeklogo.com/logo-png/0/2/abc-color-diario-logo-png_seeklogo-1891.png",ABC (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 
