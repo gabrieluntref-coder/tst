@@ -70,11 +70,9 @@ https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvacc
 #EXTINF:-1 tvg-id="Canal8VisionTV.py@SD",Canal 8 Vision TV (1080p)
 #EXTVLCOPT:http-referrer=https://www.visioncomunicaciones.com.py/
 https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8
-#EXTINF:-1 tvg-id="Nanduti.py@SD",Nanduti (720p) tvg-logo="https://i.ytimg.com/vi/vVbT4_vh7Ys/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDlvPNfCDqriRi1jHZoIFjmxZUpFA",Nanduti
-https://zn1tf.desdeparaguay.net/nandutitv/nandutitv_alta/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAire.py@SD",TV Aire
 https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8
-#EXTINF:-1 tvg-id="Nanduti.py@SD",Nanduti (720p)
+#EXTINF:-1 tvg-id="Nanduti.py@SD" tvg-logo="https://i.ytimg.com/vi/vVbT4_vh7Ys/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDlvPNfCDqriRi1jHZoIFjmxZUpFA",Nanduti (720p)
 #EXTVLCOPT:http-referrer=https://nanduti.com.py/nanduti-tv
 https://copacogen.desdeparaguay.net/nandutitv/nandutitv_baja/index.m3u8
 #EXTINF:-1 tvg-id="RedDigital.py@SD",Red Digital (1080p) [Not 24/7]
@@ -149,6 +147,6 @@ http://190.7.19.197:232/play/a059/index.m3u8
 #EXTINF:-1 tvg-id="America.ar@SD" tvg-logo="https://elintransigente.com/wp-content/uploads/2021/04/America-TV.jpg",America (1080p)
 http://190.7.19.197:232/play/a03b/index.m3u8
 #EXTINF:-1 tvg-id="El9.ar@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Canal_9_Argentina_1998.svg/revision/latest/scale-to-width-down/2257?cb=20230804164800&path-prefix=es",El 9 (1080p)
-http://190.7.19.197:232/play/a03k/index.m3u8
+http://181.209.96.155:10000/play/a13z/index.m3u8
 #EXTINF:-1 tvg-id="c5n".ar@SD" tvg-logo="https://play-lh.googleusercontent.com/45vrTdJeJaBibiMuxEztpOYWBkiIgWrUjrxJTQOffdx71PNIwqdt6NUq32E4kY8xhnA",C5N (1080p)
 http://181.13.252.102:8000/play/a01p/index.m3u8
