@@ -63,7 +63,7 @@ https://www.desde-paraguay.com/pro.m3u8
 https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion
 #EXTINF:-1 tvg-id="Gen.py@SD",Gen tvg-logo="https://yt3.googleusercontent.com/U-x-BRAvADi_d1dcSZm-EUaEQ5NGxr5ZmL5EXQJO6lbGNosxRStWMkzuAav7muUmmmXVbw58aT4=s900-c-k-c0x00ffffff-no-rj",GEN
 #EXTVLCOPT:http-referrer=https://www.gen.com.py/
-https://copacogen.desdeparaguay.net/gentv/gentv_py_alta/playlist.m3u8?admin=nacion
+http://45.170.130.224:8000/play/a04j/index.m3u8
 #EXTINF:-1 tvg-id="E40.py@SD",E40 (1080p) tvg-logo="https://i1.sndcdn.com/artworks-0EiByyifOhZWPNcS-5fHXJQ-t500x500.jpg",E40
 #EXTVLCOPT:http-referrer=https://www.estacion40.com.py/
 https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion
