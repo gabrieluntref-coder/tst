@@ -24,7 +24,10 @@ http://45.170.130.224:8000/play/a050/index.m3u8
 http://45.170.130.224:8000/play/a02o/index.m3u8
 #EXTINF:-1 tvg-id="ABC.py@SD" tvg-logo="https://images.seeklogo.com/logo-png/0/2/abc-color-diario-logo-png_seeklogo-1891.png",ABC (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(laSsOkuaqwE0aRTtOoyLr0ZQMRC1oknEunzYjR3te6s2o6OfRwBdFwrWg0TQh8dPWQia8lUGGvM2d-dz5L7MHFvtUE7Ad2DIzBOIvGEAqjwh9ZR3fnV14nCWKVxOv1ww)/cloud/3/x9skr3m/d/live-720.m3u8
+#EXTINF:-1 tvg-id="ABC.py@SD",ABC (1080p) ,ABC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+https://cdndirector.dailymotion.com/cdn/live/video/x9skr3m.m3u8?sec=V05_OUMDJRmvY7I91LifP3D-QXZX1dx9ksqNuFoecOnI2OpJ73Ngd1690Fx1WxtKhrfJuhYr3pr_3YVnEiXMIVQQoxYwhAyCsdfjhaROy1eBY7D-UtQ0HJiaJQeo0O35&dmTs=27333&dmV1st=efdd9af8-66e4-4c31-9dae-33123486b92a
 #EXTINF:-1 tvg-id="NextHD.py@SD",Next HD (480p) tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo7tYqQMWckZnZRP0OqfBETm4xq0_Jig0wXw&s",Next HD
 https://edge.enhdtv.com/nexthd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RepublicaTV.py@SD",República TV (720p) tvg-logo="https://pbs.twimg.com/profile_images/1624424184867586050/5YARpOkC_400x400.jpg",RepublicaTv
