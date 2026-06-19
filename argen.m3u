@@ -48,7 +48,7 @@ https://copacogen.desdeparaguay.net/telefuturo/telefuturo_alta/index.m3u8?admin=
 http://45.170.130.224:8000/play/a04m/index.m3u8
 #EXTINF:-1 tvg-id="PopuTV.py@SD",Popu TV (1080p) tvg-logo="https://yt3.googleusercontent.com/exbBCaessS5ew-F6NFy9u6u6Yy-K7kMZ1OOI9CtlxSC-CK1W6FZaD9j-OqQBv-piZeakhs1ayg=s900-c-k-c0x00ffffff-no-rj", Popu Tv
 #EXTVLCOPT:http-referrer=https://www.popular.com.py/
-https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion
+http://181.224.255.210:8001/play/a0sh/index.m3u8
 #EXTINF:-1 tvg-id="NPY.py@SD",NPY (1080p) tvg-logo="https://yt3.googleusercontent.com/KHmZ--eFjIZRJc1ukh0mccEBuXlGawiramdni8Q7yMKA-vDoycoFHy41qq-3l7EJ0CyceF-L=s900-c-k-c0x00ffffff-no-rj",NPY
 #EXTVLCOPT:http-referrer=https://www.npy.com.py/
 https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion
