@@ -15,10 +15,10 @@ http://159.203.148.226/live/farra.m3u8
 https://rds3gen.desdeparaguay.net/mitv/mitv/playlist.m3u8?admin=mitvitapua?k=67119d8db024b58eaaeb7069ca41b76539fcc13dee4046dc6ae1ee82ac014872
 #EXTINF:-1 tvg-id="Trece.py@SD",Trece (1080p) tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logotrececanal.png",TRECE
 #EXTVLCOPT:http-referrer=https://trece.com.py/
-http://45.170.130.224:8000/play/a02m/index.m3u8
+http://138.59.227.20:8000/play/a0e3/index.m3u8
 #EXTINF:-1 tvg-id="Trece.py@SD",Treceop2 (1080p) tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logotrececanal.png",TRECE op2
 #EXTVLCOPT:http-referrer=https://trece.com.py/
-http://45.170.130.224:8000/play/a050/index.m3u8
+http://138.59.227.20:8000/play/a0fl/index.m3u8
 #EXTINF:-1 tvg-id="America.py@SD", tvg-logo="https://i0.wp.com/television.com.py/wp-content/uploads/2023/08/img_5822.jpg?fit=1080%2C1080&ssl=1",America Paraguay (1080p)
 #EXTVLCOPT:http-referrer=https://cdndirector.dailymotion.com/
 http://45.170.130.224:8000/play/a02o/index.m3u8
@@ -27,7 +27,7 @@ http://45.170.130.224:8000/play/a02o/index.m3u8
 https://cdndirector.dailymotion.com/cdn/live/video/x9lh4mu.m3u8?sec=zSaM6Q3mBDJApNK2YxF66brI9MQ6eVVT-hCL2LdJ-406pHRIbk627yXUCiR4BDkcxfElKd7BhtotvnWmCeileMf-ntebZV1xyqd4YHt_ol4&dmTs=636941&dmV1st=FBFAF5D3A3DD4607B79BF53B93156A43
 #EXTINF:-1 tvg-id="ABC.py@SD" tvg-logo="https://images.seeklogo.com/logo-png/0/2/abc-color-diario-logo-png_seeklogo-1891.png",ABC (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(laSsOkuaqwE0aRTtOoyLr0ZQMRC1oknEunzYjR3te6s2o6OfRwBdFwrWg0TQh8dPWQia8lUGGvM2d-dz5L7MHFvtUE7Ad2DIzBOIvGEAqjwh9ZR3fnV14nCWKVxOv1ww)/cloud/3/x9skr3m/d/live-720.m3u8
+http://138.59.227.20:8000/play/a0g6/index.m3u8
 #EXTINF:-1 tvg-id="ABC.py@SD",ABC (1080p) ,ABC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 https://cdndirector.dailymotion.com/cdn/live/video/x9skr3m.m3u8?sec=V05_OUMDJRmvY7I91LifP3D-QXZX1dx9ksqNuFoecOnI2OpJ73Ngd1690Fx1WxtKhrfJuhYr3pr_3YVnEiXMIVQQoxYwhAyCsdfjhaROy1eBY7D-UtQ0HJiaJQeo0O35&dmTs=27333&dmV1st=efdd9af8-66e4-4c31-9dae-33123486b92a
@@ -40,7 +40,7 @@ https://live.enhdtv.com:8081/8060/index.m3u8
 #EXTINF:-1 tvg-id="UnionTV.py@SD",UnionTV
 https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Unicanal.py@SD",Unicanal (1080p) tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/03/unicanal-logo-tv-t%C3%A9l%C3%A9vision-padel-paraguay-1024x576.jpg.webp",Unicanal
-http://45.170.130.224:8000/play/a04y/index.m3u8
+http://138.59.227.20:8000/play/a0e8/index.m3u8
 #EXTINF:-1 tvg-id="Telefuturo.py@SD",Telefuturo tvg-logo="https://yt3.googleusercontent.com/1D-d0TjwChUBOrteOTQwx-WU-C50T9JtfniY2G27b7LDpLO7L5LYhOuE-mAbfdfp-gWZ3-x5NA=s900-c-k-c0x00ffffff-no-rj",Telefuturo op2
 #EXTVLCOPT:http-referrer=https://www.telefuturo.com.py/
 https://copacogen.desdeparaguay.net/telefuturo/telefuturo_alta/index.m3u8?admin=tvaccion
@@ -48,7 +48,7 @@ https://copacogen.desdeparaguay.net/telefuturo/telefuturo_alta/index.m3u8?admin=
 #EXTVLCOPT:http-referrer=https://www.telefuturo.com.py/
 #EXTINF:-1 tvg-id="Telefuturo.py@SD",Telefuturo op2 tvg-logo="https://yt3.googleusercontent.com/1D-d0TjwChUBOrteOTQwx-WU-C50T9JtfniY2G27b7LDpLO7L5LYhOuE-mAbfdfp-gWZ3-x5NA=s900-c-k-c0x00ffffff-no-rj",Telefuturo op2
 #EXTVLCOPT:http-referrer=https://www.telefuturo.com.py/
-http://45.170.130.224:8000/play/a04m/index.m3u8
+http://138.59.227.20:8000/play/a0fh/index.m3u8
 #EXTINF:-1 tvg-id="PopuTV.py@SD",Popu TV (1080p) tvg-logo="https://yt3.googleusercontent.com/exbBCaessS5ew-F6NFy9u6u6Yy-K7kMZ1OOI9CtlxSC-CK1W6FZaD9j-OqQBv-piZeakhs1ayg=s900-c-k-c0x00ffffff-no-rj", Popu Tv
 #EXTVLCOPT:http-referrer=https://www.popular.com.py/
 http://181.224.255.210:8001/play/a0sh/index.m3u8
