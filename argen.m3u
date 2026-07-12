@@ -99,7 +99,7 @@ https://stream.farra.com.py/live/farra_low.m3u8
 #EXTINF:-1 tvg-id="Gen.py@SD" tvg-logo="https://yt3.googleusercontent.com/U-x-BRAvADi_d1dcSZm-EUaEQ5NGxr5ZmL5EXQJO6lbGNosxRStWMkzuAav7muUmmmXVbw58aT4=s900-c-k-c0x00ffffff-no-rj",Gen
 https://gentvpeer.desdeparaguay.net/gentvpeer/gentv_py_alta/master.m3u8
 #EXTINF:-1 tvg-id="SNT.py@SD", tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Snt-2000.png/revision/latest?cb=20201213002550",SNT (1080p)
-https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8
+http://45.170.130.224:8000/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="TigoSportsPlus.py@SD",Tigo Sports+
 http://45.170.130.224:8000/play/a04i/index.m3u8
 #EXTINF:-1 tvg-id="RadioSanCristobal887FM.py@SD" tvg-logo="https://play-lh.googleusercontent.com/EiH50HKNGm1Ft0DL1GcEDl8usUvqFQuaw64EvRf0fRbUDmq_TSiV8aL9PbRjs-qWrvQg",Radio San Cristobal 88.7 FM
@@ -119,7 +119,7 @@ https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8
 #EXTINF:-1 tvg-id="OviedoTV.py@SD",Oviedo TV
 https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8
 #EXTINF:-1 tvg-id="C9N.py@SD",C9N (1080p) tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/C9N_LOGO.jpg",C9N
-https://alba-py-c9n-c9n.stream.mediatiquestream.com/index.m3u8
+http://138.59.227.20:8000/play/a0fy/index.m3u8
 #EXTINF:-1 tvg-id="RQPParaguay.py@SD",RQP Paraguay (1080i)
 https://alba-py-rqp-rqp.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="VenusMedia.py@SD" tvg-logo="https://radiosdeparaguay.com.py/wp-content/uploads/2021/06/Radio-Venus-105.1-FM-.jpg",Venus Media (1080p)
