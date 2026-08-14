@@ -19,9 +19,6 @@ http://138.59.227.20:8000/play/a0e3/index.m3u8
 #EXTINF:-1 tvg-id="Trece.py@SD",Trece (1080p) tvg-logo="https://pbs.twimg.com/media/EKyCkHhWkAE97uw.jpg",TRECE
 #EXTVLCOPT:http-referrer=https://trece.com.py/
 http://45.170.130.224:8000/play/a02m/index.m3u8
-#EXTINF:-1 tvg-id="Trece.py@SD",Treceop2 (1080p) tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logotrececanal.png",TRECE op2
-#EXTVLCOPT:http-referrer=https://trece.com.py/
-http://138.59.227.20:8000/play/a0fl/index.m3u8
 #EXTINF:-1 tvg-id="America.py@SD", tvg-logo="https://i0.wp.com/television.com.py/wp-content/uploads/2023/08/img_5822.jpg?fit=1080%2C1080&ssl=1",America Paraguay (1080p)
 http://45.170.130.224:8000/play/a02o/index.m3u8
 #EXTINF:-1 tvg-id="ABC.py@SD" tvg-logo="https://images.seeklogo.com/logo-png/0/2/abc-color-diario-logo-png_seeklogo-1891.png",ABC (1080p)
