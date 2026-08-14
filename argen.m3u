@@ -37,7 +37,7 @@ http://45.170.130.224:8000/play/a04y/index.m3u8
 https://copacogen.desdeparaguay.net/telefuturo/telefuturo_baja/index.m3u8?admin=tvaccion
 #EXTINF:-1 tvg-id="Telefuturo2.py@SD",Telefuturo opcion2 tvg-logo="https://yt3.googleusercontent.com/1D-d0TjwChUBOrteOTQwx-WU-C50T9JtfniY2G27b7LDpLO7L5LYhOuE-mAbfdfp-gWZ3-x5NA=s900-c-k-c0x00ffffff-no-rj",Telefuturo op2
 #EXTVLCOPT:http-referrer=https://www.telefuturo.com.py/
-http://45.170.130.224:8000/play/a014/index.m3u8
+https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8
 #EXTINF:-1 tvg-id="PopuTV.py@SD",Popu TV (1080p) tvg-logo="https://yt3.googleusercontent.com/exbBCaessS5ew-F6NFy9u6u6Yy-K7kMZ1OOI9CtlxSC-CK1W6FZaD9j-OqQBv-piZeakhs1ayg=s900-c-k-c0x00ffffff-no-rj", Popu Tv
 #EXTVLCOPT:http-referrer=https://www.popular.com.py/
 http://181.224.255.210:8001/play/a0sh/index.m3u8
