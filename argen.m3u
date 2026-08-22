@@ -13,11 +13,9 @@ https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
 http://159.203.148.226/live/farra.m3u8
 #EXTINF:-1 tvg-id="MiTV.py@SD",MiTV (720p) tvg-logo="https://i.postimg.cc/qvvgzQzD/1200px-LOGO-MITV-ALTA-DEFINICION-2020-PNG.png",Mi TV
 https://rds3gen.desdeparaguay.net/mitv/mitv/playlist.m3u8?admin=mitvitapua?k=67119d8db024b58eaaeb7069ca41b76539fcc13dee4046dc6ae1ee82ac014872
-#EXTINF:-1 tvg-id="Trece.py@SD",Trece (1080p) tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logotrececanal.png",TRECE
-#EXTVLCOPT:http-referrer=https://trece.com.py/
+#EXTINF:-1 tvg-id="Trece.py@SD",Trece (1080p) tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logotrececanal.png",TRECE OP2
 http://138.59.227.20:8000/play/a0e3/index.m3u8
 #EXTINF:-1 tvg-id="Trece.py@SD",Trece (1080p) tvg-logo="https://pbs.twimg.com/media/EKyCkHhWkAE97uw.jpg",TRECE
-#EXTVLCOPT:http-referrer=https://trece.com.py/
 http://45.170.130.224:8000/play/a02m/index.m3u8
 #EXTINF:-1 tvg-id="America.py@SD", tvg-logo="https://i0.wp.com/television.com.py/wp-content/uploads/2023/08/img_5822.jpg?fit=1080%2C1080&ssl=1",America Paraguay (1080p)
 http://45.170.130.224:8000/play/a02o/index.m3u8
@@ -40,7 +38,7 @@ https://copacogen.desdeparaguay.net/telefuturo/telefuturo_baja/index.m3u8?admin=
 https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_med/playlist.m3u8
 #EXTINF:-1 tvg-id="PopuTV.py@SD",Popu TV (1080p) tvg-logo="https://yt3.googleusercontent.com/exbBCaessS5ew-F6NFy9u6u6Yy-K7kMZ1OOI9CtlxSC-CK1W6FZaD9j-OqQBv-piZeakhs1ayg=s900-c-k-c0x00ffffff-no-rj", Popu Tv
 #EXTVLCOPT:http-referrer=https://www.popular.com.py/
-http://181.224.255.210:8001/play/a0sh/index.m3u8
+http://190.108.83.69:8000/play/a070/index.m3u8
 #EXTINF:-1 tvg-id="NPY.py@SD",NPY (1080p) tvg-logo="https://yt3.googleusercontent.com/KHmZ--eFjIZRJc1ukh0mccEBuXlGawiramdni8Q7yMKA-vDoycoFHy41qq-3l7EJ0CyceF-L=s900-c-k-c0x00ffffff-no-rj",NPY
 #EXTVLCOPT:http-referrer=https://www.npy.com.py/
 https://copacogen.desdeparaguay.net/npy/npy_py_baja/playlist.m3u8?admin=tvaccion
